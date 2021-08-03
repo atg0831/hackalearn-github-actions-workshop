@@ -22,3 +22,6 @@ jobs:
 
       - name: Hello Team
         uses: ./.github/actions/hello-team
+        with:
+          member: "atg123"
+          leader: "atg0831"
